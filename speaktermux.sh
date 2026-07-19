@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 # Get the current date in YYYY-MM-DD format
 current_date=$(date +"%Y-%m-%d")
